@@ -12,7 +12,7 @@ A computer vision system that detects food waste, identifies the person responsi
   - Waste details
   - Fine amount (₹0.10 per gram)
   - UPI payment QR code
-- **Real-time Monitoring** 📹: Processes live camera feed with OpenCV
+- **Real-time Monitoring** 📹: Processes live camera feed with OpenCV.
 
 ## System Architecture 🏗️
 
